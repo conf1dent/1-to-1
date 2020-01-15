@@ -1,0 +1,23 @@
+body{
+    margin-left: 250px;
+    margin-right: 200px;
+    font-family: Tenor Sans;
+    text-align: center;
+}
+
+image{
+    width: 15vw;
+    height: 20vw;
+}
+
+img{
+    max-width: 100%;    
+}
+
+#title{
+    font-family: Tenor Sans;
+}
+
+#img-caption{
+    font-family: Tenor Sans;
+}
